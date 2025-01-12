@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 # 💫 About Me:
-🤝 I’m looking for a new role Software Engineer<br>🌱 I’m currently learning Flask<br>
+🤝 I’m looking for a new role Software Engineer<br>🌱 I’m currently learning React JS<br>
 
 
 ## 🌐 Socials:
