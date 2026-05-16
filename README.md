@@ -7,7 +7,6 @@
 🧠 Skilled in LangChain, LangGraph, FastAPI, MLflow, Databricks & LLM Engineering<br>
 🌱 Exploring advanced AI orchestration, AI platform engineering & scalable GenAI systems<br>
 💻 Strong background in Backend + Full-Stack Development<br>
-🏆 Deloitte Applause Award Winner (2024 & 2025)<br>
 📈 Solved 529+ LeetCode problems (263 Medium, 45 Hard)<br>
 🤝 Open to Software Engineer / GenAI Engineer / AI Platform Engineer opportunities<br>
 
